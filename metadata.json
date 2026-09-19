@@ -1,0 +1,6 @@
+{
+  "name": "RN Dose Drill",
+  "description": "A comprehensive nursing dosage calculation quiz featuring 50 clinical medication math questions with one-question-per-screen drilling, instant green/red answer feedback, progress tracking, shuffle mode, and detailed step-by-step rationales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
